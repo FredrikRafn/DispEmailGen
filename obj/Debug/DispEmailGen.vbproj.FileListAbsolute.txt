@@ -1,0 +1,12 @@
+C:\Users\bobra\source\repos\DispEmailGen\DispEmailGen\obj\Debug\DispEmailGen.vbprojAssemblyReference.cache
+C:\Users\bobra\source\repos\DispEmailGen\DispEmailGen\obj\Debug\DispEmailGen.vbproj.GenerateResource.cache
+C:\Users\bobra\source\repos\DispEmailGen\DispEmailGen\obj\Debug\DispEmailGen.vbproj.CoreCompileInputs.cache
+C:\Users\bobra\source\repos\DispEmailGen\DispEmailGen\bin\Debug\DispMailGen.exe.config
+C:\Users\bobra\source\repos\DispEmailGen\DispEmailGen\bin\Debug\DispMailGen.exe
+C:\Users\bobra\source\repos\DispEmailGen\DispEmailGen\bin\Debug\DispMailGen.pdb
+C:\Users\bobra\source\repos\DispEmailGen\DispEmailGen\bin\Debug\DispMailGen.xml
+C:\Users\bobra\source\repos\DispEmailGen\DispEmailGen\obj\Debug\DispMailGen.Form1.resources
+C:\Users\bobra\source\repos\DispEmailGen\DispEmailGen\obj\Debug\DispMailGen.Resources.resources
+C:\Users\bobra\source\repos\DispEmailGen\DispEmailGen\obj\Debug\DispMailGen.exe
+C:\Users\bobra\source\repos\DispEmailGen\DispEmailGen\obj\Debug\DispMailGen.xml
+C:\Users\bobra\source\repos\DispEmailGen\DispEmailGen\obj\Debug\DispMailGen.pdb
